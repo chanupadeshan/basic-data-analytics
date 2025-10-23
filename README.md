@@ -13,5 +13,8 @@ Contents
   - `dimentsions_exploration.sql` — (typo: "dimentions") explore dimension tables
   - `magnitute_analysis.sql` — aggregation and revenue queries
   - `measures_exploration.sql` — measures and summary report
-  - `ranking_analysis.sql` — top/bottom ranking queries
+- `ranking_analysis.sql` — top/bottom ranking queries
 
+## Part 2: Advanced Data Analytics
+
+For more advanced SQL warehouse exploration, see [advanced-data-analytics](https://github.com/chanupadeshan/advanced-data-analytics).
